@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>&nbsp;
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/office/vba/api/overview/excel" target="_blank"><img src="https://img.shields.io/badge/-VBA-867DB1?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA" /></a>&nbsp;
   <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>&nbsp;
@@ -37,5 +36,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/-R%20Markdown-276DC3?style=flat-square&logo=rstudio&logoColor=white" alt="R Markdown" />
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
